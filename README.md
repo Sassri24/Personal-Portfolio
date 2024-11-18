@@ -17,7 +17,7 @@ Welcome to my **Personal Portfolio** repository! 🎨 This project showcases my 
 
 ## 🌐 Live Demo  
 
-🔗 [Visit My Portfolio](#https://sassri24.github.io/Personal-Portfolio/)  
+🔗 [<a href="https://sassri24.github.io/Personal-Portfolio/">Visit My Portfolio</a>]  
 
 ---
 
